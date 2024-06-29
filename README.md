@@ -63,20 +63,24 @@ Capacity Estimation:
 
 
 
+![Alt text](/image/RabbitMQimage.png)
+
+
 
 authService API
 
-
-
-
+![Alt text](/image/Picture1.png)
 
 FlightAndSearchServcie API
 
+![Alt text](/image/Picture2.png)
 
 BookingService API
 
-
-
+![Alt text](/image/Picture3.png)
 
 ReminderService API
+
+
+![Alt text](/image/Picture4.png)
 
