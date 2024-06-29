@@ -1,3 +1,4 @@
 [submodule "APIGatewayAirline"]
 	path = APIGatewayAirline
 	url = https://github.com/sahil2806/APIGatewayAirline.git
+git submodule add https://github.com/example/repo.git APIGatewayAirline
