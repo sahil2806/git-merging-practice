@@ -6,3 +6,12 @@
 	path = AuthService
 	url = https://github.com/sahil2806/AuthServices.git
 
+[submodule "FlightAndSearchService"]
+	path = FlightAndSearchService
+	url = https://github.com/sahil2806/FlightAndSearchService.git
+[submodule "AirTicketBookingService"]
+	path = AirTicketBookingService
+	url = https://github.com/sahil2806/AirTicketBookingService.git
+[submodule "ReminderService"]
+	path = ReminderService
+	url = https://github.com/sahil2806/ReminderService.git
